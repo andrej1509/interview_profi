@@ -1,0 +1,23 @@
+{
+  "name": "interview_profi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrej1509/interview_profi.git"
+  },
+  "author": "Andrej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrej1509/interview_profi/issues"
+  },
+  "homepage": "https://github.com/andrej1509/interview_profi#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
